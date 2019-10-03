@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'SFProText';
+  src: local('SFProText'), url(./fonts/SFProText-Regular.ttf) format('truetype');
+}
+
+body {
+  font-family: SFProText;
+}
+
+h1 {
+  font-family: SFProDisplay;
+}
